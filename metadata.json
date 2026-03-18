@@ -1,0 +1,5 @@
+{
+  "name": "X-AI Platform",
+  "description": "A full-stack Explainable AI web platform for training models, generating predictions, and understanding AI decisions.",
+  "requestFramePermissions": []
+}
